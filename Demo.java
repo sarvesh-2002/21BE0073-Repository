@@ -14,4 +14,4 @@ class Demo{
   else    
    System.out.println("not palindrome");    
 }  
-}  
+}
